@@ -5,5 +5,5 @@ The implementation of some software design patterns is based on examples. The de
 Mostly C# on .Net Core framework.
 
 ## Implemented Design Patterns
-* [Dependency Injection Pattern]()
+* [Dependency Injection Pattern](https://github.com/muhendisonur/design-patterns/tree/main/Dependency-Injection-Pattern)
 * [Repository Pattern]()
